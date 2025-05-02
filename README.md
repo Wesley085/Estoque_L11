@@ -65,7 +65,14 @@ php artisan migrate
 ```bash
 php artisan migrate
 ```
-### 9. Inicie o Servidor de Desenvolvimento
+
+### 9. Cria uma seeder seed para logar
+
+```bash
+php artisan db:seed
+```
+
+### 10. Inicie o Servidor de Desenvolvimento
 
 ```bash
 php artisan serve
