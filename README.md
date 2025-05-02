@@ -28,7 +28,7 @@ Primeiro, clone o repositório do projeto para o seu ambiente local:
 
 ```bash
 git clone https://github.com/Wesley085/Estoque_L11.git
-cd estoque
+cd Estoque_L11
 ```
 ### 2. Configuração do Ambiente
 
